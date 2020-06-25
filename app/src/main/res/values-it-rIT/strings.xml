@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MeetGroups</string>
+    <string name="Settings">Impostazioni</string>
+    <string name="Block">Blocca</string>
+    <string name="Report">Segnala</string>
+    <string name="EmailNull">Email non valida</string>
+    <string name="PasswordNull">Password non valida</string>
+    <string name="Name">Nome</string>
+    <string name="Surname">Cognome</string>
+    <string name="ConfirmPassword">Conferma password</string>
+    <string name="CreateAccount">Crea account</string>
+    <string name="Showcase">Bacheca</string>
+    <string name="AddPost">Nuovo post</string>
+    <string name="EnterMessage">Facci sapere</string>
 </resources>

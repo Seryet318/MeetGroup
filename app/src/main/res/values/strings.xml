@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name" translatable="false">MeetGroups</string>
+    <string name="Account" translatable="false">Account</string>
+    <string name="Settings">Settings</string>
+    <string name="Chat" translatable="false">Chat</string>
+    <string name="Block">Block</string>
+    <string name="Report">Report</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="Login" translatable="false">Login</string>
+    <string name="Password" translatable="false">Password</string>
+    <string name="LogOut" translatable="false">Log out</string>
+    <string name="AccountInfo" translatable="false">Info</string>
+    <string name="EmailNull">Email not valid</string>
+    <string name="PasswordNull">Password not valid</string>
+    <string name="Name">First name</string>
+    <string name="Surname">Last name</string>
+    <string name="ConfirmPassword">Confirrm password</string>
+    <string name="SignUp" translatable="false">Sign up</string>
+    <string name="CreateAccount">Create account</string>
+    <string name="Showcase">Showcase</string>
+    <string name="AddPost">Add post</string>
+    <string name="EnterMessage">Let us know</string>
 </resources>

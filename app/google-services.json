@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209446586830",
+    "firebase_url": "https://meetgroups-73219.firebaseio.com",
+    "project_id": "meetgroups-73219",
+    "storage_bucket": "meetgroups-73219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209446586830:android:80ef23cb4430c10307839f",
+        "android_client_info": {
+          "package_name": "com.example.meetgroups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209446586830-dml73tc37i61bc0i9smuv33oo15l6u66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-GBdtm2JCaZ7spHyU9-Kc344hBXSUgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209446586830-dml73tc37i61bc0i9smuv33oo15l6u66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
