@@ -2,6 +2,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/QualityProject/app/src/main/res/drawable/ic_account_circle_white.xml" value="0.28854166666666664" />
+        <entry key="..\:/AndroidStudioProjects/QualityProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28854166666666664" />
         <entry key="..\:/AndroidStudioProjects/QualityProject/app/src/main/res/drawable/login_background.xml" value="0.28854166666666664" />
         <entry key="..\:/AndroidStudioProjects/QualityProject/app/src/main/res/layout/activity_checkbox.xml" value="0.2734375" />
         <entry key="..\:/AndroidStudioProjects/QualityProject/app/src/main/res/layout/activity_login.xml" value="0.2734375" />
